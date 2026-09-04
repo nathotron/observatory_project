@@ -1,1 +1,1 @@
-# observatory_project
+git_observatory
